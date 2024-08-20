@@ -1,7 +1,6 @@
 Shopping List:
 
-Apple 
-Bananna 
+Apple  
 Orange
 Grapes 
 Lemons
